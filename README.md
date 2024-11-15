@@ -9,12 +9,12 @@ This code is a Python script that uses a library called Cairo to draw a 3D repre
    - After the house is drawn, the code mirrors the image along the vertical axis (left to right). This means whatever is drawn on the left side will be reflected on the right side, creating a symmetric effect. This is done using a technique called "translation" and "scaling."
 
 ## Drawing the Main House 
-   -The code then draws the main part of the house. This includes the front walls and side walls. The walls are drawn using lines that form rectangles, and they are colored in light beige with darker outlines.
+   - The code then draws the main part of the house. This includes the front walls and side walls. The walls are drawn using lines that form rectangles, and they are colored in light beige with darker outlines.
 
 ## Drawing the Roof
   - Next, the roof is drawn. It has two parts: the front and the side. The roof is drawn as a triangle with sharp edges and filled with a red-orange color, making it look like a slanted roof.
 
-5. **Adding Windows**:
+Adding Windows*:
    The house has windows on the front and side. The windows are drawn as rectangles, with each one divided into smaller sections, giving the appearance of window panes. The windows are filled with a light blue color to make them look like glass.
 
 6. **Adding a Dormer Window**:
