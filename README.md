@@ -14,17 +14,15 @@ This code is a Python script that uses a library called Cairo to draw a 3D repre
 ## Drawing the Roof
   - Next, the roof is drawn. It has two parts: the front and the side. The roof is drawn as a triangle with sharp edges and filled with a red-orange color, making it look like a slanted roof.
 
-Adding Windows*:
-   The house has windows on the front and side. The windows are drawn as rectangles, with each one divided into smaller sections, giving the appearance of window panes. The windows are filled with a light blue color to make them look like glass.
+## Adding Windows
+  - The house has windows on the front and side. The windows are drawn as rectangles, with each one divided into smaller sections, giving the appearance of window panes. The windows are filled with a light blue color to make them look like glass.
 
-6. **Adding a Dormer Window**:
-   There's also a small window on the roof, called a dormer. This dormer has its own little roof and window, and it is drawn similarly to the main house windows but in a smaller, more triangular shape.
+ ## Adding a Dormer Window
+  - There's also a small window on the roof, called a dormer. This dormer has its own little roof and window, and it is drawn similarly to the main house windows but in a smaller, more triangular shape.
 
-7. **Drawing the Door**:
-   The house also has a door at the bottom of the front wall. The door is a rectangle with a round handle on it. The door is colored in a wooden brown tone.
+## Drawing the Door
+   - The house also has a door at the bottom of the front wall. The door is a rectangle with a round handle on it. The door is colored in a wooden brown tone.
 
-8. **Saving the Image**:
-   Finally, after all these parts are drawn, the image is saved as a PNG file (a type of picture file) named "3d_house_mirrored.png." This file can be opened to view the house.
-
-### In Summary:
-This code draws a simple 2D house, adds details like windows, a door, a roof, and a dormer, and then creates a mirrored version of the house on the right side of the image. The final result is saved as a picture file.
+### Project Structure
+```
+```
